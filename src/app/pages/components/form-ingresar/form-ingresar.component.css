@@ -1,0 +1,61 @@
+.container{
+  text-align: center;
+  color: #525252;
+  margin-top: 40px;
+}
+
+.disable a{
+  color: #DBDBDB;
+}
+
+.line{
+  position: relative;
+  margin-left: 30px;
+  background-color: #0A8EA2;
+  width: 12vw;
+  height: 10px;
+  border-radius: 1em;
+  border-style: none;
+}
+.mi-entry{
+  background-color: #EDEDED;
+  color: #525252;
+  font-weight: 800;
+  padding: .5em 2em;
+  width: 30vw;
+  border-radius: 3em;
+  margin: 20px 0px;
+  border-style: none;
+}
+.mi-entry:focus{
+  outline: none;
+}
+
+.form{
+  margin: 10px 0px;
+  text-align: center;
+  justify-items: center;
+}
+.mi-btn{
+  background-color: #0A8EA2;
+  border-radius: 3em;
+  color: white;
+  border-style: none;
+  padding: .5em;
+  font-weight: 800;
+  font-size: large;
+  width: 10vw;
+}
+
+.msg{
+  margin-top: 20px;
+
+}
+.msg a{
+  color: #b1b1b1;
+}
+
+a{
+  text-decoration: none;
+}
+
